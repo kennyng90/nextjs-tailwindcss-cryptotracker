@@ -2,7 +2,7 @@
 
 Crypto Tracker is a web app build with NextJS, Tailwindcss and Coingecko API.
 
-![screenshot](https://github.com/kennyng90/nextjs-tailwindcss-cryptotracker/blob/main/uploads/screenshot.png)
+![screenshot](https://github.com/kennyng90/nextjs-tailwindcss-cryptotracker/blob/master/uploads/screenshot.png)
 
 ## Demo
 
