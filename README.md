@@ -1,29 +1,39 @@
-# Next.js + Tailwind CSS Example
+## Crypto Tracker
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Crypto Tracker is a web app build with NextJS, Tailwindcss and Coingecko API.
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+![screenshot](https://github.com/kennyng90/nextjs-tailwindcss-cryptotracker/blob/main/uploads/screenshot.png)
 
-## Preview
+## Demo
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+[nextjs-tailwindcss-cryptotracker.vercel.app](https://nextjs-tailwindcss-cryptotracker.vercel.app/)
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Getting Started
 
-## Deploy your own
+Installation
+node.js is required to get npm.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+- npm
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+  ```sh
+  npm install npm@latest -g
+  ```
 
-## How to use
+  ### Installation
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+1. Clone the repo
+   ```sh
+   git clone https://github.com/kennyng90/nextjs-tailwindcss-cryptotracker.git
+   ```
+2. Go to directory
+   ```sh
+   cd nextjs-tailwindcss-cryptotracker
+   ```
+3. Install NPM or Yarn packages
+   ```sh
+   npm install or yarn
+   ```
+4. Start app
+   ```sh
+   npm start or yarn start
+   ```
